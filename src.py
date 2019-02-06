@@ -3,7 +3,7 @@ import random
 
 a_token = "" #vk token
 owner_id = "-151755775"
-query = "как"
+query = "очередь"
 v = "5.92"
 
 r1 = requests.get("https://api.vk.com/method/wall.search?owner_id="+owner_id+
