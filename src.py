@@ -1,7 +1,7 @@
 import requests
 import random
 
-a_token = ""
+a_token = "" #vk token
 owner_id = "-151755775"
 query = "как"
 v = "5.92"
