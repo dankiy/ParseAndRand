@@ -1,7 +1,7 @@
 import requests
 import random
 
-a_token = "5d1b3c0842c3cf2b48f1b2ef5d1b2ed2911950e9b903a6ad4d91aea3b40757951fa6d8e323e836fb06cbe"
+a_token = ""
 owner_id = "-151755775"
 query = "как"
 v = "5.92"
